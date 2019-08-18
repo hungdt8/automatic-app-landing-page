@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Viral News est la meilleure application de nouvelles à laquelle s'attendent tous les Français
+app_description                           : Viral News est la meilleure application de nouvelles à laquelle s'attendent tous les Français. Cette application vous apporte les dernières nouvelles et vidéos de la plupart des journaux en France. Vous pouvez lire rapidement et facilement les actualités de la France dans de nombreuses catégories: sports, voyages, santé, vidéos, divertissement, éducation, affaires, actualités, dernières nouvelles...
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
