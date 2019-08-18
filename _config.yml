@@ -7,18 +7,26 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Viral News                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Viral News est la meilleure application de nouvelles à laquelle s'attendent tous les Français. Cette application vous apporte les dernières nouvelles et vidéos de la plupart des journaux en France. Vous pouvez lire rapidement et facilement les actualités de la France dans de nombreuses catégories: sports, voyages, santé, vidéos, divertissement, éducation, affaires, actualités, dernières nouvelles...
+app_description                           : Viral News est la meilleure application de nouvelles à laquelle s'attendent tous les Français
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Dat Luyen                                                   
-your_city                                 : Hanoi - Vietnam                             
+your_name                                 : Dat Luyen                                
+your_link                                 :                     
+your_city                                 : Hanoi - Vietnam                                
 email_address                             : luyenthanhdat1208@icloud.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
+
+
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
